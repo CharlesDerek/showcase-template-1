@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="185 26 261 671" enable-background="new 185 26 261 671" xml:space="preserve">
+<g>
+	<circle opacity="0.17" enable-background="new    " cx="319.3" cy="467.5" r="6.4"/>
+	<path opacity="0.17" enable-background="new    " d="M319.3,440.3c-17.6,0-32.8,14.4-32.8,32.8v54.4c0,17.6,14.4,32.8,32.8,32.8
+		s32.8-14.4,32.8-32.8v-54.4C351.3,454.7,336.9,440.3,319.3,440.3z M347.3,526.7c0,15.2-12.8,28-28,28s-28-12.8-28-28v-54.4
+		c0-15.2,12.8-28,28-28s28,12.8,28,28V526.7z"/>
+	<path opacity="0.17" enable-background="new    " d="M347.3,568.3l-28.8,28.8l-28.8-28.8c-0.8-0.8-2.4-0.8-3.2,0
+		c-0.8,0.8-0.8,2.4,0,3.2l30.4,30.4c0.8,0.8,0.8,0.8,1.6,0.8s0.8,0,1.6-0.8l30.4-30.4c0.8-0.8,0.8-2.4,0-3.2
+		C349.7,567.5,348.9,567.5,347.3,568.3z"/>
+	<path opacity="0.17" enable-background="new    " d="M347.3,598.7l-28.8,28.8l-28.8-28.8c-0.8-0.8-2.4-0.8-3.2,0
+		c-0.8,0.8-0.8,2.4,0,3.2l30.4,30.4c0.8,0.8,0.8,0.8,1.6,0.8s0.8,0,1.6-0.8l30.4-30.4c0.8-0.8,0.8-2.4,0-3.2
+		C349.7,597.9,348.9,597.9,347.3,598.7z"/>
+</g>
+<path opacity="0.17" enable-background="new    " d="M416.9,63.9c0-8-6.4-14.4-14.4-14.4H235.3c-8,0-14.4,6.4-14.4,14.4v167.2
+	c0,8,6.4,14.4,14.4,14.4h167.2c8,0,14.4-6.4,14.4-14.4V63.9z M378.5,197.5H264.9c-3.2,0-4-2.4-2.4-5.6l32.8-47.2
+	c1.6-2.4,4.8-3.2,7.2-0.8l6.4,6.4c2.4,2.4,5.6,2.4,7.2,0l16-19.2c1.6-2.4,4.8-2.4,7.2,0l41.6,60.8
+	C382.5,195.1,381.7,197.5,378.5,197.5z M370.5,139.9c-7.2,0-13.6-6.4-13.6-13.6c0-7.2,6.4-13.6,13.6-13.6s13.6,6.4,13.6,13.6
+	C384.1,134.3,377.7,139.9,370.5,139.9z"/>
+<text transform="matrix(1 0 0 1 -24.7969 1125.9844)" opacity="0.17" enable-background="new    " font-family="'MyriadPro-Regular'" font-size="31.6728">Scrollable area</text>
+<text transform="matrix(1 0 0 1 203.5658 286.5136)" opacity="0.17" font-family="'MyriadPro-Regular'" font-size="20.8674">Drop long screenshot here</text>
+<text transform="matrix(1 0 0 1 255.8168 671.5136)" opacity="0.17" font-family="'MyriadPro-Regular'" font-size="20.8674">Scrollable area</text>
+</svg>
